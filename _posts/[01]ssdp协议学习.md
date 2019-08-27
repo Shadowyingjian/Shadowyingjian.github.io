@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      SSDP局域网发现功能学习记录
+subtitle:   SSDP
+date:       2019-08-27
+author:     BY
+header-img: img/post-image/ssdp.png
+catalog: true
+tags:
+    - SSDP
+    - 学习
+---
+
 ## SSDP协议的学习记录
 ###  SSDP协议是啥?
 
