@@ -7,8 +7,7 @@ author:     BY
 header-img: img/post-image/ssdp.png
 catalog: true
 tags:
-    - SSDP
-    - 学习
+    - Blog
 ---
 
 ## SSDP协议的学习记录
