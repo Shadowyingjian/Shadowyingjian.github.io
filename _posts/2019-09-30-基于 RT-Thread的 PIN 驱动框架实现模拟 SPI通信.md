@@ -68,7 +68,7 @@ CPOL=1, CPHA=1
 
 可以参考下图的说明进行理解：
 
-![SPI 总线数据传输时序](D:\shadowliang\blog\Shadowyingjian.github.io\img\post-image\SPI-01.png)
+![SPI 总线数据传输时序](https://github.com/Shadowyingjian/Shadowyingjian.github.io/blob/master/img/post-image/SPI-01.png)
 
 ##  基于 RT-Thread 的 PIN 驱动框架模拟 SPI 驱动
 
